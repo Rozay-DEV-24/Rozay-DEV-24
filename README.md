@@ -1,8 +1,10 @@
 ## Hi, I'm Rohit Surya 😉
-🛠️ Data Engineer | 💻 Software Developer | 🤖 ML Enthusiast | 📊 Analytics
+I engineer pipelines for a living — but I'm equally at home writing 
+software, training ML models, and digging into analytics.
 
-Building scalable pipelines on Azure & GCP, writing clean code, 
-training models, and turning data into decisions.
+🔧 Stack: Azure • GCP • Microsoft Fabric • Databricks • Spark
+🐍 Daily: Python, SQL, T-SQL, BigQuery
+🎓 MS Information Science (ML focus) • Oracle GenAI Certified
 
 # 📊 GitHub Stats:
 
